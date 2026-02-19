@@ -159,5 +159,3 @@ const members = [
 Este projeto está livre para uso e modificação.
 
 ---
-
-Desenvolvido com ❤️ pelo Quarteto Fantástico
