@@ -18,7 +18,7 @@ export const Button = ({
 }: ButtonProps) => {
   
   const variants = {
-    primary: 'bg-blue-600 text-white hover:bg-blue-700',
+    primary: 'bg-slate-800 text-white hover:bg-slate-600',
     ghost: 'bg-transparent border border-slate-300 hover:bg-slate-100 text-slate-700',
     danger: 'bg-red-500 text-white hover:bg-red-600',
   };
